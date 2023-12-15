@@ -1,0 +1,1 @@
+0001;Limites_1.png;Al evaluar el límite tenemos como resultado:;4;Indefinido;2;3;3
